@@ -131,4 +131,39 @@ Cet atelier Render, **noté sur 20 points**, est évalué sur la base du barème
 - Exerice 1 - Nouvelle route (2 points)
 - Exerice 2 - Modification de Terraform (2 points)
 - Atelier - Plateforme de développement (9 points)
-- Processus travail (quantité de commits, cohérence globale, interventions externes, ...) (3 points) 
+- Processus travail (quantité de commits, cohérence globale, interventions externes, ...) (3 points)
+
+---------------------------------------------------
+Rendu
+---------------------------------------------------
+
+# 1 - Dashboard Render
+
+<img width="1038" height="263" alt="Screenshot 2026-04-28 at 12 15 20" src="https://github.com/user-attachments/assets/9cc1a989-4326-42ae-8111-c6bf40f752a6" />
+
+# 2 - GHRC
+
+<img width="1037" height="532" alt="Screenshot 2026-04-28 at 12 16 15" src="https://github.com/user-attachments/assets/43b097db-f740-4d0c-87fd-37788f265cfd" />
+
+# 3 - Flask → Postgres
+
+<img width="1124" height="156" alt="Screenshot 2026-04-28 at 12 16 33" src="https://github.com/user-attachments/assets/cc226271-fcb6-4957-bc52-5a4c8a765573" />
+
+# 4 - Flask /env
+
+<img width="479" height="124" alt="Screenshot 2026-04-28 at 12 16 49" src="https://github.com/user-attachments/assets/14f4300d-39eb-4cbc-a241-e4b5d6b45279" />
+
+# 5 - React → Flask → Postgres
+
+<img width="1284" height="462" alt="Screenshot 2026-04-28 at 12 19 02" src="https://github.com/user-attachments/assets/56b43c45-a73d-475a-ad81-3583de59e6c4" />
+
+# 6 - Adminer → Postgres
+
+<img width="1217" height="351" alt="Screenshot 2026-04-28 at 12 22 40" src="https://github.com/user-attachments/assets/eed0c17b-c0b9-40e6-98dd-69dd15749713" />
+
+# 7 - Secrets GitHub configurés
+
+<img width="785" height="231" alt="Screenshot 2026-04-28 at 12 24 14" src="https://github.com/user-attachments/assets/cfbe8810-baf1-435f-9031-4c7ba7ae28c4" />
+
+
+
