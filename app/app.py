@@ -7,6 +7,14 @@ app = Flask(__name__)
 def home():
     return "Flask + Docker + GHCR + Terraform + Render"
 
+@app.route("/info")
+def info():
+    return {
+        "app": "Flask Render",
+        "student": "VOTRE_NOM",
+        "version": "v1"
+    }
+
 @app.route("/health")
 def health():
     return {"status": "Tout est ok ou pas"}
