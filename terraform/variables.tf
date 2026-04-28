@@ -14,3 +14,8 @@ variable "image_url" {
 variable "image_tag" {
   type = string
 }
+
+variable "database_url" {
+  type      = string
+  sensitive = true
+}
