@@ -14,7 +14,7 @@ def home():
 def info():
     return {
         "app": "Flask Render",
-        "student": "VOTRE_NOM",
+        "student": "dceleste",
         "version": "v1"
     }
 
